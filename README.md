@@ -1,4 +1,4 @@
-# 🎵 Music Website
+#  Sparkle✨:🎵 Music Website
 
 ## Description
 An offline music website meticulously designed and developed using HTML, CSS, and JavaScript for the frontend, paired with PHP and MySQL for the backend. This project showcases a robust, user-friendly interface for seamless music playback, volume control, and song search functionality.
@@ -13,4 +13,4 @@ An offline music website meticulously designed and developed using HTML, CSS, an
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/music-website.git
+   git clone https://github.com/prat33k18/sparkle.git
